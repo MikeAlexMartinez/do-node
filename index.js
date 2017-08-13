@@ -3,7 +3,7 @@ var app = express();
 
 app.get('/', function (req, res) {
     console.log('request received!')
-    res.send('Hello Digital Ocean! :D');
+    res.send('Bellas my Bunny! <3 <3 <3');
 });
 
 app.listen(3000, function() {
